@@ -1,11 +1,11 @@
 {
-  "name": "eslint-config-trustpilot",
-  "version": "1.6.0",
-  "description": "Shared ESLint config for Trustpilot projects",
-  "homepage": "https://github.com/trustpilot/node-eslint-config",
-  "repository": "https://github.com/trustpilot/node-eslint-config.git",
+  "name": "@spencerhakim/eslint-config",
+  "version": "1.0.0",
+  "description": "Shared ESLint config for my personal projects",
+  "homepage": "https://github.com/spencerhakim/node-eslint-config",
+  "repository": "https://github.com/spencerhakim/node-eslint-config.git",
   "bugs": {
-    "url": "https://github.com/trustpilot/node-eslint-config/issues"
+    "url": "https://github.com/spencerhakim/node-eslint-config/issues"
   },
   "license": "MIT",
   "engines": {

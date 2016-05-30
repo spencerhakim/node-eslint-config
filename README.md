@@ -1,13 +1,11 @@
-# eslint-config-trustpilot
+# @spencerhakim/eslint-config
+Shared ESLint config for my personal projects
 
-[![npm](https://img.shields.io/npm/v/eslint-config-trustpilot.svg)](https://www.npmjs.com/package/eslint-config-trustpilot)
-[![Build Status](https://travis-ci.org/trustpilot/node-eslint-config.svg?branch=master)](https://travis-ci.org/trustpilot/node-eslint-config)
-
-Shared ESLint config for Trustpilot projects.
+[![Build Status](https://travis-ci.org/spencerhakim/node-eslint-config.svg?branch=master)](https://travis-ci.org/spencerhakim/node-eslint-config)
 
 ### Install
 ```
-$ npm install eslint-config-trustpilot --save-dev
+$ npm install @spencerhakim/eslint-config --save-dev
 ```
 
 You must also `npm install` the following peer dependencies:
